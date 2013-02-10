@@ -1,0 +1,13 @@
+{
+  "name": "grunt-livereload-jade",
+  "version": "0.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.0rc7"
+    "grunt-contrib-jshint": "~0.1.0",
+    "grunt-regarde": "~0.1.1",
+    "grunt-contrib-connect": "~0.1.0",
+    "grunt-contrib-livereload": "0.1.0rc8",
+    "grunt-contrib-jade": "~0.4.0rc7"
+  }
+}
