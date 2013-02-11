@@ -1,0 +1,8 @@
+{
+  "name": "grunt-livereload-jade-ember",
+  "version": "0.0.0",
+  "dependencies": {
+    "ember": "~1.0.0-pre.4",
+    "requirejs": "~2.1.4"
+  }
+}

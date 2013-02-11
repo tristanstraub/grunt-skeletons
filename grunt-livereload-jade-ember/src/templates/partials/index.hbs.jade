@@ -1,0 +1,8 @@
+| index template
+ul
+  | {{#each things}}
+  li
+    | {{this}} 
+    <a href="#" {{action moveUp this}}>moveup</a> 
+    <a href="#" {{action moveDown this}}>movedown</a>
+  | {{/each}}
